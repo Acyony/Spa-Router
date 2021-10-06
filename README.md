@@ -10,3 +10,9 @@ It implements the following React technologies:
 3. onClick, conditional rtyling for Task 3 (Advanced)
 
 For the actual task, please take a look at **task.pdf**.
+
+<br>
+
+
+https://user-images.githubusercontent.com/42450397/136154263-72469369-98c4-44b0-a9e0-46406a1477e0.mov
+
